@@ -47,6 +47,7 @@ Notes
 ============
 
 Designed for iOS 8.
+Requires Swift 3.
 
 ## License
 
