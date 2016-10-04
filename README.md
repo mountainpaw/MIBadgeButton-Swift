@@ -46,8 +46,8 @@ Mustafa Ibrahim, mustafa.ibrahim989@gmail.com
 Notes
 ============
 
-Designed for iOS 8.
-Requires Swift 3.
+* Designed for iOS 8.
+* Requires Swift 3.
 
 ## License
 
