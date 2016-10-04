@@ -34,8 +34,8 @@ Change the badge text color and background color
 
 ```swift
 
-button.badgeTextColor = UIColor.blueColor()
-button.badgeBackgroundColor = UIColor.redColor()
+button.badgeTextColor = UIColor.blue
+button.badgeBackgroundColor = UIColor.red
 
 ```
 
